@@ -2,3 +2,4 @@
 Laboratorio 4 del curso Git y GitHub - PIT 2026.
 ## Contenido
 - bitacora.md: comandos remote, push, fetch y pull.
+Publicada en GitHub en la sesion 4.
